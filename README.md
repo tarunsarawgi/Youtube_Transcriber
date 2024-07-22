@@ -1,6 +1,6 @@
-# 🎬 Movies dataset template
+# 🎬 Youtube Video Transcriber
 
-A simple Streamlit app showing movie data from [The Movie Database (TMDB)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). 
+A simple Streamlit app showing Summary of the Youtube Video.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://youtubetranscriber-b73m7yhvvbadrpsothpbra.streamlit.app/)
 
@@ -15,5 +15,5 @@ A simple Streamlit app showing movie data from [The Movie Database (TMDB)](https
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run app.py
    ```
